@@ -1,3 +1,5 @@
+run/
+AccessMirai-NGRI-MODCert.p12
 .org
 # https://raw.githubusercontent.com/github/gitignore/master/Gradle.gitignore
 .gradle
@@ -114,7 +116,8 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon
+Icon
+
 ._*
 .DocumentRevisions-V100
 .fseventsd
